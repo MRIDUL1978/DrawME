@@ -1,0 +1,14 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="48" fill="#181816"/>
+  <circle cx="890" cy="180" r="310" fill="url(#a)" fill-opacity=".7"/>
+  <circle cx="300" cy="700" r="380" fill="url(#b)" fill-opacity=".7"/>
+  <path d="M104 590C244 393 384 346 511 449C642 555 720 499 804 345C882 202 997 214 1107 312" stroke="#F5F0E7" stroke-width="18" stroke-linecap="round"/>
+  <path d="M177 683C342 534 434 564 547 645C674 735 774 694 936 520" stroke="#E65D3E" stroke-width="52" stroke-linecap="round" stroke-opacity=".86"/>
+  <rect x="86" y="78" width="380" height="252" rx="24" stroke="#F5F0E7" stroke-opacity=".35" stroke-width="2"/>
+  <path d="M143 145H366M143 195H410M143 245H324" stroke="#F5F0E7" stroke-opacity=".24" stroke-width="14" stroke-linecap="round"/>
+  <defs>
+    <radialGradient id="a"><stop stop-color="#E65D3E"/><stop offset="1" stop-color="#E65D3E" stop-opacity="0"/></radialGradient>
+    <radialGradient id="b"><stop stop-color="#365C50"/><stop offset="1" stop-color="#365C50" stop-opacity="0"/></radialGradient>
+  </defs>
+</svg>
+
