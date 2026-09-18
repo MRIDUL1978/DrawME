@@ -1,6 +1,6 @@
 # DrawMe
 
-DrawMe is a local-first Chrome and Firefox extension that adds a Goodnotes-style annotation layer to ordinary web pages. Click the toolbar icon to turn it on for the current tab, draw with document-anchored ink that scrolls with the page, and switch to hand mode to hand control straight back to the host page.
+DrawMe is a local-first browser extension that eases your workflow by turning web pages into writable surfaces.
 
 
 ## Contents
