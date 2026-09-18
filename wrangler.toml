@@ -1,0 +1,6 @@
+name = "drawme-onboarding"
+compatibility_date = "2026-09-18"
+
+[assets]
+directory = "dist/onboarding-build"
+binding = "ASSETS"
