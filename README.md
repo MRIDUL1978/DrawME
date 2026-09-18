@@ -148,6 +148,4 @@ Development workflow, coding conventions, the interaction contract, and the rele
 
 ## License
 
-This project doesn't yet have a published license. Add a `LICENSE` file at the repo root (via **Add file → Create new file → LICENSE** on GitHub) and reference it here, e.g.:
-
-> Licensed under the [MIT License](./LICENSE).
+This project is licensed under the [MIT License](./LICENSE).
